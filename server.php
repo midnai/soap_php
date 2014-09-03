@@ -23,5 +23,3 @@ $server->AddFunction("getGoodbye");
 $server->handle();
 
 ?>
-
-
